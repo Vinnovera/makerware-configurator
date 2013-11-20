@@ -1,0 +1,26 @@
+{
+  "name": "makerware-configurator",
+  "version": "0.1.0",
+  "description": "Application for editing Makerware profiles",
+  "main": "app.js",
+  "dependencies": {
+    "cli-wizard": "latest"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vinnovera/makerware-configurator.git"
+  },
+  "keywords": [
+    "makerware",
+    "profile",
+    "configurator",
+    "makerbot"
+  ],
+  "author": "Jakob Öhman <jakob@vinnovera.se> (http://vinnovera.se/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Vinnovera/makerware-configurator/issues"
+  },
+  "homepage": "https://github.com/Vinnovera/makerware-configurator"
+}
